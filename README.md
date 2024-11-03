@@ -1,6 +1,5 @@
 ## Hi there 👋
 # 💫 About Me:
- I am an undergraduate student at Mount Kenya University, currently pursuing a degree in Computer Science. With a strong passion for technology and innovation, I have honed my skills in web development and programming through both academic coursework and hands-on projects.<br><br>Skills<br>Web Development: Proficient in building responsive and dynamic websites using HTML, CSS, JavaScript, and various frameworks.<br>Programming Languages:<br>Python: Experienced in developing scripts and applications, including data analysis and automation.<br>C/C++: Skilled in systems programming and algorithm design.<br>Software Engineering: Certified by Coursera in Software Engineering, demonstrating my understanding of software development principles and practices.
 
 
 ## 🌐 Socials:
