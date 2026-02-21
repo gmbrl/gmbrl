@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CyberSecurity**
 
-- 👨‍💻 All of my projects are available at [gmbrl-github-cew9xdoj5-gmbrls-projects.vercel.ap](gmbrl-github-cew9xdoj5-gmbrls-projects.vercel.ap)
+- 👨‍💻 All of my projects are available at [gmbrl-github-io.vercel.app](gmbrl-github-io.vercel.app)
 
 - 📫 How to reach me **chegepeterson12@gmail.com**
 
