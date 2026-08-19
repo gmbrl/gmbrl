@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.png" alt="GMBRL software developer profile banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/94/2f/70/942f700446d526af06ad4f6012d02ee3.jpg" alt="GMBRL software developer profile banner" width="100%" />
 </p>
 
 ## 🌐 Socials:
