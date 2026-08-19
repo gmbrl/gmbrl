@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/94/2f/70/942f700446d526af06ad4f6012d02ee3.jpg" alt="GMBRL software developer profile banner" width="100%" />
+  <img src="https://i.pinimg.com/736x/a3/d8/f7/a3d8f7c04af0926e4cfaede486db798b.jpg" alt="GMBRL software developer profile banner" width="100%" />
 </p>
 
 ## 🌐 Socials:
